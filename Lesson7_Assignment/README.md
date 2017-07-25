@@ -14,7 +14,7 @@ Element that displays contents of  recipe.
 https://github.com/jss14e/lesson7_jquery.git
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to toggle upon clicking
+2. How to use the hover function
+3. How to change color of sections dynamically
 
